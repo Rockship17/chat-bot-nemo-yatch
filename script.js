@@ -9,7 +9,7 @@ function startChat() {
             * @param config.bot_iad - Agent ID.
             */
             config: {
-              bot_id: '7517861753879871504',
+              bot_id: '7517572530434326546',
             },
             componentProps: {
               title: 'Nemo Yatch',
