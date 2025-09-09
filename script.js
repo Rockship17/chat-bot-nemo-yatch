@@ -9,10 +9,10 @@ function startChat() {
             * @param config.bot_iad - Agent ID.
             */
             config: {
-              bot_id: '7517851145696509959',
+              bot_id: '7517861753879871504',
             },
             componentProps: {
-              title: 'Focus Travel',
+              title: 'Nemo Yatch',
             },
             /**
             * The auth property is used to configure the authentication method.
@@ -34,11 +34,11 @@ function startChat() {
             }, 
             ui: { 
               base: { 
-                icon: 'https://www.focusvietnam.com/wp-content/uploads/2024/12/logo.png.webp', 
+                icon: 'https://cdn-ilcfmpf.nitrocdn.com/yYiHeTHrURqWoOIojgpqVEGtVOfnnkJt/assets/images/optimized/rev-2066a5b/nemoyacht.vn/wp-content/uploads/2024/07/cropped-cropped-Logo_Nemo-01.png', 
                 lang: 'vi',
               },
               chatBot: {
-                title: 'Focus Travel',
+                title: 'Nemo Yatch',
                 uploadable: false,
               }, 
               asstBtn: { 
